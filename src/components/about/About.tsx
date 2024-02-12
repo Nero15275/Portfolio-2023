@@ -35,11 +35,15 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-                        eos illo sunt fugit voluptatem, libero voluptate qui? Nesciunt saepe
-                        neque at optio nisi, totam distinctio nemo nam quo mollitia rem.
+                        Full Stack Developer with 2 years of hands-on experience designing,
+                        developing, and implementing applications and solutions using a
+                        range of technologies and programming languages. Seeking to leverage
+                        broad development experience and hands-on technical expertise in a
+                        challenging role as a Full Stack Developer.
                     </p>
-                    <a href="#contact" className="btn btn-primary">Let's Talk</a>
+                    <a href="#contact" className="btn btn-primary">
+                        Let's Talk
+                    </a>
                 </div>
             </div>
         </section>

@@ -16,45 +16,23 @@ const Services = () => {
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Figma Intermidiate
                             </p>
                         </li>
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Mobile App Design
                             </p>
                         </li>
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Web App Design
                             </p>
                         </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
+
+
                     </ul>
 
                 </article>
@@ -67,45 +45,28 @@ const Services = () => {
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                convert Design to HTML & CSS
                             </p>
                         </li>
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Add functionality to the frontend using Javascript/Typescript
                             </p>
                         </li>
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Add services for Api-call
                             </p>
                         </li>
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Well Structured Clean Code
                             </p>
                         </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
+
                     </ul>
 
                 </article>
@@ -118,45 +79,28 @@ const Services = () => {
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Create REST-APIs using node-express
                             </p>
                         </li>
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Create services Routes Handelers for Well Structured Clean Code
                             </p>
                         </li>
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Create protected Routes password encription middlewares
                             </p>
                         </li>
                         <li>
                             <BsCheckLg className="service__list-icons" />
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Use Nosql databases like mongodb
                             </p>
                         </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
-                        <li>
-                            <BsCheckLg className="service__list-icons" />
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </li>
+
                     </ul>
 
                 </article>

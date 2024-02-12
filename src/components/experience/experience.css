@@ -53,7 +53,10 @@ grid-template-columns: 1fr;
 /*************media queries(small)********/
 @media screen and (max-width: 600px){
 .exprience__container{
+
 gap: 1rem;
+
+
 } 
 .exprience__container>div{
     width: 100%;
@@ -63,4 +66,5 @@ gap: 1rem;
 .experience__content{
     padding: 1rem;
 } 
+
 }
