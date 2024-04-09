@@ -33,6 +33,9 @@
     display: inline-block;
     font-size: 0.8rem;
 }
+.error{
+ border:2px solid red !important;
+}
 
 
 
@@ -52,6 +55,7 @@ input,textarea {
     resize: none;
     color: var(--color-white);
 }
+
 
 /*************media queries(medium)********/
 @media screen and (max-width: 1024px){
